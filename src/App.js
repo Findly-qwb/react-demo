@@ -2,7 +2,7 @@
  * @Author:  Findly <weninqiu42@gmail.com>
  * @Date: 2021-11-05 10:52:24
  * @LastEditors: Findly
- * @LastEditTime: 2021-11-08 11:18:16
+ * @LastEditTime: 2021-11-08 11:25:43
  * @Description: 
  */
 import logo from './logo.svg';
@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>邱文斌啊啊啊</p>
+        <p>邱文斌啊啊啊！！！</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
